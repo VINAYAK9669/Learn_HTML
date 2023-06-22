@@ -1,0 +1,25 @@
+table
+{
+	width: 70%;
+	
+	border-collapse: collapse;
+
+	margin: auto;
+	margin-top: 150px;
+
+}
+th,td
+{
+	border: solid 2px black;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+td:hover
+{
+	background-color: antiquewhite;
+}
+tr:hover
+{
+	background-color: green;
+}
