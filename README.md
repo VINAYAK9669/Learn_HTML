@@ -3,4 +3,7 @@
 - Here in this, the file name called EXERCISE ON TABLE is given in which 4 execrises are mentioned
 - If you work on these 4 exercises then we can learn most of the important things related to table.
 
-LET GETS STATRTED
+# Excercise-1
+ - CodePen link- <a src="https://codepen.io/collection/eJjWpq">Exercise-1</a>
+
+
