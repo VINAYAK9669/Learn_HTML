@@ -19,8 +19,19 @@
 ### Excercise-2
 - CodePen link- [Exercise-2](https://codepen.io/vinayak9669/pen/zYMKLGO)
 
+   ####  What we will learn in this Exercise
+              - colspan
+              - rowspan
+              - width
+              - height
+
 ### Excercise-4
 - CodePen link- [Exercise-4](https://codepen.io/vinayak9669/pen/mdQrjzL)
+
+ ####  What we will learn in this Exercise
+             - <colgroup> which is used to style the tables
+             - <col> 
+             - "span" attribute
 
 ### NOTE:
 > Exercise-3 is same as the Exercise-1
