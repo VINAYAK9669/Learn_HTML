@@ -1,0 +1,15 @@
+table
+{
+	width: 100%;
+	border-collapse: collapse;
+	text-align: left;
+}
+tr:nth-child(even)
+{
+	background-color: rgba(142, 141, 140, 0.3);
+	
+}
+th{
+	background-color: rgb(227, 73, 73);
+	
+}
