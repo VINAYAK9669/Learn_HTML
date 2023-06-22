@@ -13,6 +13,8 @@
 ### Excercise-2
 - CodePen link- [Exercise-2](https://codepen.io/vinayak9669/pen/zYMKLGO)
 
+### Excercise-3
+- CodePen link- [Exercise-3](https://codepen.io/vinayak9669/pen/mdQrjzL)
 
 
 
