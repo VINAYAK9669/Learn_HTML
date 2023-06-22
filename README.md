@@ -11,6 +11,11 @@
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/BaGLxqN)
 
+  ####  What we will learn in this Exercise
+              - Table formatting
+              - Table styling ( zebra Stripes)
+              - Table sizing
+
 ### Excercise-2
 - CodePen link- [Exercise-2](https://codepen.io/vinayak9669/pen/zYMKLGO)
 
