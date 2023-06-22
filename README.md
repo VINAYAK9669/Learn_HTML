@@ -4,6 +4,8 @@
 - If you work on these 4 exercises then we can learn most of the important things related to table.
 
 # Excercise-1
-CodePen link- <a src="https://codepen.io/collection/eJjWpq">Exercise-1</a>
+- CodePen link- [Excercise-1]([https://example.com](https://codepen.io/collection/eJjWpq)https://codepen.io/collection/eJjWpq)
+
+
 
 
