@@ -1,6 +1,6 @@
 
 
-<h1> 📘Learn HTML-TABLE</h1>
+<h1> 📘 1) Learn HTML-TABLE</h1>
 
 - In this we will learn how we can create and style the table using HTML and CSS
 - Here in this, the file name called EXERCISE ON TABLE is given in which 4 exercises are mentioned
