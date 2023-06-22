@@ -1,0 +1,18 @@
+table
+{
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+	
+
+}
+
+td,th
+{
+	border: solid 1px black;
+
+}
+tr:hover
+{
+	background-color: rgb(138, 215, 138);
+}
