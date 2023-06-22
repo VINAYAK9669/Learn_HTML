@@ -6,6 +6,14 @@
 # Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/BaGLxqN)
 
+# Excercise-1
+- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/BaGLxqN)
+
+- [1] Task 1
+- [2 ] Task 2
+- [ 3] Task 3
+
+
 
 
 
