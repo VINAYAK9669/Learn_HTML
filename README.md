@@ -51,5 +51,12 @@
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/LYXbNNa)
 
+  <h1> 📘 3) Learn HTML-LISTS</h1>
+
+   #### We Will Learn
+       - order list (<ol>) - "type", "start"
+		   - list (<li>)
+			 - Unorder list (<ul>)
+- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
  
