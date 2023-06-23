@@ -279,3 +279,66 @@ b) <a href="email@example.com?subject=Subject">
 c) <a href="sendmail:email@example.com?subject=Subject">
 d) <a href="email:email@example.com?subject=Subject">
 Answer: a) <a href="mailto:email@example.com?subject=Subject">
+
+How do you create a hyperlink that opens in a new browser window with no toolbar or navigation buttons?
+a) <a href="url" target="_blank" rel="noopener noreferrer">
+b) <a href="url" target="new" rel="toolbar=no,location=no">
+c) <a href="url" target="blank">
+d) <a href="url" target="_new">
+Answer: a) <a href="url" target="_blank" rel="noopener noreferrer">
+
+Which HTML tag is used to define a table column?
+a) <col>
+b) <colspan>
+c) <column>
+d) <td>
+Answer: a) <col>
+
+How do you create a hyperlink that links to a specific section within the same webpage?
+a) <a href="#section-id">
+b) <a href="section-id">
+c) <a href="url#section-id">
+d) <a href="section-id.html">
+Answer: a) <a href="#section-id">
+
+What is the correct HTML tag for inserting a horizontal rule with a specific color?
+a) <hr color="color-code">
+b) <hr style="color: color-code">
+c) <hr color="color-name">
+d) <hrline color="color-code">
+Answer: a) <hr color="color-code">
+
+Which HTML element is used to define a footer for a section or a webpage?
+a) <footer>
+b) <foot>
+c) <bottom>
+d) <end>
+Answer: a) <footer>
+
+How do you create a table cell that spans across multiple columns?
+a) <cellspan>
+b) <colspan>
+c) <rowspan>
+d) <span>
+Answer: b) <colspan>
+
+Which HTML attribute is used to define the text direction of an element?
+a) <direction>
+b) <text-direction>
+c) <dir>
+d) <text-align>
+Answer: c) <dir>
+
+How do you create a hyperlink that is disabled and cannot be clicked?
+a) <a href="url" disabled>
+b) <a href="url" onclick="return false;">
+c) <a href="url" enabled="false">
+d) <a href="url" clickable="false">
+Answer: b) <a href="url" onclick="return false;">
+
+What is the correct HTML tag for inserting an abbreviation or an acronym?
+a) <abbr>
+b) <acronym>
+c) <short>
+d) <abbrv>
+Answer: a) <abbr>
