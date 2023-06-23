@@ -61,4 +61,13 @@
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
+  <h1> 📘 4) Learn HTML-IMAGE</h1>
+
+ #### We Will Learn
+- Image-map (map, usemap, area)
+- Image as background
+
+### Excercise-1
+- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/abQBmRq)
+
  
