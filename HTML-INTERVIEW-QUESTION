@@ -1,1 +1,279 @@
+What is the correct HTML tag for the largest heading?
+a) <h1>
+b) <head>
+c) <heading>
+d) <h6>
+Answer: a) <h1>
 
+Which HTML tag is used to define a paragraph?
+a) <para>
+b) <p>
+c) <paragraph>
+d) <pg>
+Answer: b) <p>
+
+How do you create a line break in HTML?
+a) <lb>
+b) <break>
+c) <br>
+d) <newline>
+Answer: c) <br>
+
+Which HTML attribute is used to define inline styles?
+a) style
+b) css
+c) format
+d) inline
+Answer: a) style
+
+Which HTML tag is used to display a quote?
+a) <q>
+b) <quote>
+c) <blockquote>
+d) <quotation>
+Answer: a) <q>
+
+What is the correct HTML tag for adding a hyperlink?
+a) <link>
+b) <href>
+c) <a>
+d) <hyperlink>
+Answer: c) <a>
+
+How do you open a link in a new browser window/tab?
+a) <a href="url" target="_blank">
+b) <a href="url" target="new">
+c) <a href="url" newtab>
+d) <a href="url" open="true">
+Answer: a) <a href="url" target="_blank">
+
+Which HTML attribute specifies the URL of an image?
+a) <src>
+b) <img>
+c) <link>
+d) <href>
+Answer: a) <src>
+
+How do you create a table in HTML?
+a) <table>
+b) <grid>
+c) <tab>
+d) <tbl>
+Answer: a) <table>
+
+Which HTML element is used to define a table row?
+a) <row>
+b) <tr>
+c) <td>
+d) <th>
+Answer: b) <tr>
+
+How do you define a table heading in HTML?
+a) <header>
+b) <heading>
+c) <th>
+d) <hd>
+Answer: c) <th>
+
+Which HTML attribute is used to define the background color of an element?
+a) <bgcolor>
+b) <color>
+c) <bg>
+d) <background>
+Answer: a) <bgcolor>
+
+How do you make text bold in HTML?
+a) <bold>
+b) <strong>
+c) <b>
+d) <em>
+Answer: c) <b>
+
+Which HTML tag is used to italicize text?
+a) <italic>
+b) <i>
+c) <em>
+d) <italics>
+Answer: b) <i>
+
+How do you create a numbered list in HTML?
+a) <ol>
+b) <ul>
+c) <list>
+d) <numbered>
+Answer: a) <ol>
+
+What is the correct HTML tag for defining a definition list?
+a) <dl>
+b) <list>
+c) <ul>
+d) <dt>
+Answer: a) <dl>
+
+Which HTML attribute specifies the width of a table cell?
+a) <width>
+b) <cellwidth>
+c) <tdwidth>
+d) <cell>
+Answer: a) <width>
+
+How do you create a checkbox in HTML?
+a) <check>
+b) <input type="checkbox">
+c) <box>
+d) <checkbox>
+Answer: b) <input type="checkbox">
+
+Which HTML attribute is used to define a tooltip text for an element?
+a) <title>
+b) <tooltip>
+c) <info>
+d) <tip>
+Answer: a) <title>
+
+How do you add a background image to a webpage in HTML?
+a) <img src="image.jpg" background>
+b) <img src="image.jpg" style="background-image:url('image.jpg')">
+c) <background src="image.jpg">
+d) <body background="image.jpg">
+Answer: d) <body background="image.jpg">
+
+Which HTML tag is used to define the main content of a webpage?
+a) <content>
+b) <main>
+c) <body>
+d) <section>
+Answer: b) <main>
+
+How do you create a horizontal line in HTML?
+a) <line>
+b) <horizontal>
+c) <hr>
+d) <hrline>
+Answer: c) <hr>
+
+Which HTML attribute is used to specify the width of an image?
+a) <width>
+b) <img-width>
+c) <img-size>
+d) <img-width>
+Answer: a) <width>
+
+What is the correct HTML tag for inserting a line break without creating a new paragraph?
+a) <lb>
+b) <br>
+c) <newline>
+d) <breakline>
+Answer: b) <br>
+
+Which HTML element is used to define the navigation links within a webpage?
+a) <nav>
+b) <links>
+c) <menu>
+d) <navigation>
+Answer: a) <nav>
+
+How do you make text appear as a subscript in HTML?
+a) <sub>
+b) <sup>
+c) <subscript>
+d) <supscript>
+Answer: a) <sub>
+
+Which HTML attribute is used to specify an alternate text for an image?
+a) <alt>
+b) <description>
+c) <caption>
+d) <title>
+Answer: a) <alt>
+
+What is the correct HTML tag for inserting a video?
+a) <media>
+b) <video>
+c) <movie>
+d) <vid>
+Answer: b) <video>
+
+How do you create an unordered list in HTML?
+a) <ol>
+b) <list>
+c) <ul>
+d) <unordered>
+Answer: c) <ul>
+
+Which HTML attribute is used to define the background color of a table cell?
+a) <bgcolor>
+b) <color>
+c) <background>
+d) <cellcolor>
+Answer: a) <bgcolor>
+
+How do you create a hyperlink that sends an email when clicked?
+a) <a href="mailto:email@example.com">
+b) <a href="email@example.com">
+c) <a href="sendmail:email@example.com">
+d) <a href="email:email@example.com">
+Answer: a) <a href="mailto:email@example.com">
+
+What is the correct HTML tag for inserting a horizontal rule with a shadow effect?
+a) <shadow>
+b) <hshadow>
+c) <hr>
+d) <hrshadow>
+Answer: c) <hr>
+
+Which HTML tag is used to define a table header cell?
+a) <th>
+b) <td>
+c) <tr>
+d) <head>
+Answer: a) <th>
+
+How do you create a dropdown list in HTML?
+a) <dropdown>
+b) <list>
+c) <select>
+d) <options>
+Answer: c) <select>
+
+What is the correct HTML tag for inserting a line break with extra space?
+a) <lb>
+b) <break>
+c) <br>
+d) <brsp>
+Answer: c) <br>
+
+Which HTML attribute is used to specify the font size of an element?
+a) <size>
+b) <font-size>
+c) <text-size>
+d) <style>
+Answer: b) <font-size>
+
+How do you create a checkbox that is initially checked in HTML?
+a) <input type="checkbox" checked>
+b) <input type="checkbox" value="checked">
+c) <input type="checked" checkbox>
+d) <checkbox checked>
+Answer: a) <input type="checkbox" checked>
+
+What is the correct HTML tag for inserting a background sound?
+a) <audio>
+b) <sound>
+c) <music>
+d) <bgsound>
+Answer: d) <bgsound>
+
+Which HTML tag is used to display a subscript text?
+a) <sub>
+b) <sup>
+c) <subscript>
+d) <subtext>
+Answer: a) <sub>
+
+How do you create a hyperlink that opens an email client with a pre-filled subject?
+a) <a href="mailto:email@example.com?subject=Subject">
+b) <a href="email@example.com?subject=Subject">
+c) <a href="sendmail:email@example.com?subject=Subject">
+d) <a href="email:email@example.com?subject=Subject">
+Answer: a) <a href="mailto:email@example.com?subject=Subject">
