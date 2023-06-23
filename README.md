@@ -37,8 +37,14 @@
 > Exercise-3 is same as the Exercise-1
 
 
+<h1> 📘 2) Learn HTML-LINKS</h1>
 
-
+   ## We Will Learn
+           - Hyperlinks as a text and image
+           - target attribute
+                 - _self, _blank, _parent, _top
+           - Use Image as a link
+           - Link to Email Address
 
 
  
