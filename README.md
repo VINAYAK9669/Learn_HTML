@@ -53,9 +53,10 @@
 
   <h1> 📘 3) Learn HTML-LISTS</h1>
  #### We Will Learn
-- order list (<ol>)
-- list (<li>)
-- Unorder list (<ul>)
+-Order List
+-list
+-Unorder List
+-type and start attributes
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
