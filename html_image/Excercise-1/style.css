@@ -1,0 +1,10 @@
+.img_container {
+  max-width: max-content;
+  margin: 0 auto;
+}
+body {
+  background-image: url("https://t.ly/uCyW2");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
