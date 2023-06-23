@@ -45,6 +45,10 @@
                  - _self, _blank, _parent, _top
   - Use Image as a link
   - Link to Email Address
+  - Bookmark link
+
+### Excercise-1
+- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/LYXbNNa)
 
 
  
