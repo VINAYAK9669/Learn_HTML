@@ -1,4 +1,4 @@
-40 HTML MCQ QUESTIONS ON THE TOPICS- Elements, paragraphs, formatting, quotations, links, tables 
+50+ HTML MCQ QUESTIONS ON THE TOPICS- Elements, paragraphs, formatting, quotations, links, tables 
 
 What is the correct HTML tag for the largest heading?
 a) <h1>
@@ -342,3 +342,17 @@ b) <acronym>
 c) <short>
 d) <abbrv>
 Answer: a) <abbr>
+
+How do you create a hyperlink that opens in a new browser window with a specific size?
+a) <a href="url" target="_blank" width="400" height="300">
+b) <a href="url" target="new" style="width: 400px; height: 300px;">
+c) <a href="url" target="blank" size="400x300">
+d) <a href="url" target="_new" dimensions="400,300">
+Answer: b) <a href="url" target="new" style="width: 400px; height: 300px;">
+
+What is the correct HTML tag for defining a caption for a table?
+a) <title>
+b) <caption>
+c) <headline>
+d) <desc>
+Answer: b) <caption>
