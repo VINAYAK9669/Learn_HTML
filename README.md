@@ -36,7 +36,6 @@
 ### NOTE:
 > Exercise-3 is same as the Exercise-1
 
-
 <h1> 📘 2) Learn HTML-LINKS</h1>
 
    #### We Will Learn
@@ -51,12 +50,14 @@
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/LYXbNNa)
 
-  <h1> 📘 3) Learn HTML-LISTS</h1>
+
+<h1> 📘 3) Learn HTML-LISTS</h1>
+
  #### We Will Learn
--Order List
--list
--Unorder List
--type and start attributes
+- Order List
+- list
+- Unorder List
+- type and start attributes
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
