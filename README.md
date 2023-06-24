@@ -62,7 +62,7 @@
 > CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
   
- <h1> 📘 5) Learn HTML-IMAGE</h1>
+ <h1> 📘 4) Learn HTML-IMAGE</h1>
 
  #### We Will Learn
 - Image-map (map, usemap, area)
@@ -71,7 +71,7 @@
 ### Excercise-1
 > CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/abQBmRq)
 
-<h1> 📘 4) Learn HTML-FORM</h1>
+<h1> 📘 5) Learn HTML-FORM</h1>
 
  #### We Will Learn
 - How to create basic form
