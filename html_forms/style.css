@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  text-align: center;
+  margin-top: 20px;
+}
+.form_container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.personal_info label,
+.personal_info input {
+  display: block;
+}
+.personal_info label {
+  padding: 10px;
+}
+.personal_info input {
+  float: left;
+  margin-left: 10px;
+  width: 350px;
+  padding: 3px;
+}
+.gender input,
+.gender label {
+  padding: 0px;
+  float: left;
+  width: auto;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.system_info label {
+  margin-left: 10px;
+  display: block;
+  margin-top: 12px;
+}
+.system_info span {
+  margin-left: 10px;
+}
+.system_info input {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+.employment_info label {
+  margin-left: 10px;
+}
+button {
+  display: block;
+  min-width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+textarea {
+  margin: 10px;
+  resize: none;
+  padding: 10px;
+}
