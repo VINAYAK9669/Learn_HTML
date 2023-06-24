@@ -9,7 +9,7 @@
 > Let's Get Started
 
 ### Excercise-1
-- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/BaGLxqN)
+> CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/BaGLxqN)
 
   ####  What we will learn in this Exercise
               - Table formatting
@@ -17,7 +17,7 @@
               - Table sizing
 
 ### Excercise-2
-- CodePen link- [Exercise-2](https://codepen.io/vinayak9669/pen/zYMKLGO)
+> CodePen link- [Exercise-2](https://codepen.io/vinayak9669/pen/zYMKLGO)
 
    ####  What we will learn in this Exercise
               - colspan
@@ -26,7 +26,7 @@
               - height
 
 ### Excercise-4
-- CodePen link- [Exercise-4](https://codepen.io/vinayak9669/pen/mdQrjzL)
+> CodePen link- [Exercise-4](https://codepen.io/vinayak9669/pen/mdQrjzL)
 
  ####  What we will learn in this Exercise
              - <colgroup> which is used to style the tables
@@ -48,7 +48,7 @@
   - title for links
 
 ### Excercise-1
-- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/LYXbNNa)
+> CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/LYXbNNa)
 
 
 <h1> 📘 3) Learn HTML-LISTS</h1>
@@ -59,7 +59,7 @@
 - Unorder List
 - type and start attributes
 ### Excercise-1
-- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
+> CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/xxQREOL)
 
   
  <h1> 📘 4) Learn HTML-IMAGE</h1>
@@ -69,7 +69,7 @@
 - Image as background
 
 ### Excercise-1
-- CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/abQBmRq)
+> CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/abQBmRq)
 
 <h1> 📘 4) Learn HTML-FORM</h1>
 
