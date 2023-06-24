@@ -71,4 +71,13 @@
 ### Excercise-1
 - CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/abQBmRq)
 
+<h1> 📘 4) Learn HTML-FORM</h1>
+
+ #### We Will Learn
+- How to create basic form
+- Form Input Attributes
+- Form Elements
+- Input Types
+  > CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/PoxbBBR)
+
  
