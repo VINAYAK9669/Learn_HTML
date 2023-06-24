@@ -1,1 +1,82 @@
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width= n, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="form_container">
+      <h3>Placement Form</h3>
+      <br />
+
+      <form action="" oninput="y.value=parseInt(rangeValue.value) ">
+        <fieldset class="personal_info">
+          <legend>Personal Information</legend>
+          <label for="userName">Name</label>
+          <input type="text" id="userName" required />
+          <br />
+          <label for="email" required="">E-mail</label>
+          <input type="text" id="email" />
+          <br />
+          <label for="dateofBirth">D.O.B</label>
+          <input
+            type="date"
+            id="dateofBirth"
+            min="1990-01-01"
+            max="2003-12-31"
+          />
+          <br />
+          <label for="email">Phone No</label>
+          <input type="number" id="phoneNumber" />
+          <br />
+          <br />
+          <label for="">Gender</label>
+          <div class="gender">
+            <input type="radio" id="male" name="gender" value="male" />
+            <label for="gender">Male</label>
+            <input type="radio" id="female" name="gender" value="female" />
+            <label for="gender">Female</label>
+          </div>
+        </fieldset>
+        <br />
+        <fieldset class="system_info">
+          <legend>System Information</legend>
+          <label for="password">Password</label>
+          <input type="password" />
+          <br />
+          <label for="">Expected Salary </label>
+          <br />
+          <span>3 Lac</span>
+          <input type="range" name="x" id="rangeValue" max="12" min="3" />
+          <span>12 Lac</span>
+          =
+          <output name="y" for="x"> </output><span>*Lac</span>
+        </fieldset>
+        <br />
+        <fieldset class="employment_info">
+          <legend>Experience</legend>
+          <br />
+          <label for="">What is your Experience</label>
+          <select name="" id="">
+            <option value="null">Select</option>
+            <option value="0">fresher</option>
+            <option value="0.6">6 month</option>
+            <option value="1">1 year</option>
+            <option value="2">1+ year</option>
+          </select>
+          <br />
+          <br />
+          <label for="acheivements">Acheivements</label><br />
+          <textarea name="acheivements" id="" cols="50" rows="10"></textarea>
+          <br />
+          <br />
+        </fieldset>
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
