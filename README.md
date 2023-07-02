@@ -83,4 +83,12 @@
 
   > CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/PoxbBBR)
 
+<h1> 📘 4) Learn HTML-MEDIA</h1>
+
+ #### We Will Learn
+- How to add video to the browser with different style
+- How to add Audio to the browser
+- How to add background music to website
+- How to add pdf to the website
+
  
