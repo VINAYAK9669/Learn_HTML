@@ -90,5 +90,6 @@
 - How to add Audio to the browser
 - How to add background music to website
 - How to add pdf to the website
+  > CodePen link- [Exercise-1](https://codepen.io/vinayak9669/pen/WNYXBYK)
 
  
