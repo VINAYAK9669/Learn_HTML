@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Red Riding Hood</title>
+    <style>
+      /* This will set the defualt margin to zero */
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      /* Add background image */
+      body {
+        background-image: url("https://tinyurl.com/2p8z2tfu");
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+
+      /* Styling Container */
+      #container {
+        margin-top: 5rem;
+      }
+      /* Style for the header */
+      header {
+        text-align: center;
+        font-size: 5rem;
+        font-weight: 500;
+        color: #fff;
+        margin-bottom: 2rem;
+      }
+      header span {
+        font-weight: 900;
+      }
+
+      /* Style for the audio */
+      audio {
+        display: block;
+        margin: 0 auto;
+      }
+      .media {
+        display: grid; /*Used grid option to make them to see like coloumns and also it will help in responsive design*/
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 3rem;
+        justify-content: center;
+        align-self: center;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      /* Style for the video frame */
+
+      .video {
+        margin-left: 3rem;
+      }
+      /* Set the size of he video frame */
+      .video iframe {
+        width: 350px;
+        height: 200px;
+        border-radius: 8px 0px 0px 8px;
+        border-style: dashed;
+        border-color: orange;
+        border-width: medium;
+      }
+      .pdf embed {
+        border-style: dashed;
+        border-color: orange;
+        border-width: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <header>Learn With <span style="color: orange">Chegg</span></header>
+
+      <audio controls>
+        <source src="https://tinyurl.com/mtascdzy" type="audio/mp3" />
+        Your browser does not support the audio element.
+      </audio>
+      <div class="media">
+        <div class="video">
+          <!-- Add your video embed code here -->
+          <!-- youtube video embed using below syntax -->
+          <iframe
+            src="https://www.youtube.com/embed/88M_WIuCu5Q"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <div class="pdf">
+          <!-- Add your PDF embed code here -->
+          <embed
+            src="https://tinyurl.com/5x6tm7sr"
+            width="400px"
+            height="200px"
+          />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
