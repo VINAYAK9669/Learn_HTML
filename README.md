@@ -41,7 +41,7 @@
    #### We Will Learn
   - Hyperlinks as a text and image
   - target attribute
-                 - _self, _blank, _parent, _top
+                 - `_self`, `_blank`, `_parent`, `_top`
   - Use Image as a link
   - Link to Email Address
   - Bookmark link
